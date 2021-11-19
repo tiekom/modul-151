@@ -6,6 +6,8 @@
         <option value="$PROJECT_DIR$/JSON/pom.xml" />
         <option value="$PROJECT_DIR$/XML/pom.xml" />
         <option value="$PROJECT_DIR$/Recursive/pom.xml" />
+        <option value="$PROJECT_DIR$/../rang-list-test/pom.xml" />
+        <option value="$PROJECT_DIR$/rang-list-test/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -14,7 +16,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_16">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

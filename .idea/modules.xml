@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JSON/JSON.iml" filepath="$PROJECT_DIR$/JSON/JSON.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursive/Recursive.iml" filepath="$PROJECT_DIR$/Recursive/Recursive.iml" />
       <module fileurl="file://$PROJECT_DIR$/XML/XML.iml" filepath="$PROJECT_DIR$/XML/XML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rang-list-test/rang-list-test.iml" filepath="$PROJECT_DIR$/rang-list-test/rang-list-test.iml" />
     </modules>
   </component>
 </project>
